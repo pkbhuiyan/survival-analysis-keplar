@@ -1,0 +1,2 @@
+1.if the player is 'active' then it manipulate the value of 'To' to '0',duration '0',retired '0'
+2.if draft==to then retired '0'
